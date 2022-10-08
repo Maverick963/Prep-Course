@@ -1,0 +1,20 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+Variables
+	Son textos que nos sirven de herramienta para almacenar información que podemos utilizar después.
+
+Strings
+	Son textos; se diferencian de los números, porque se escriben entre apóstrofes (comillas)
+
+Funciones (argumentos, return)
+	Las Funciones son estructuras que nos permiten ejecutar tareas; facilitan el trabajo al evitar tener que repetir lo mismo siempre.
+	Los argumentos de las funciones nos permiten complementarla para obtener los resultados que se buscan.
+	Return nos permite mostrar algo en pantalla; la función llega solo hasta la línea que contenga return; lo demás no se ejeucta. 
+
+Declaraciones if
+	Son estructuras que nos permiten evaluar condiciones que pueden ser verdaderas o falsas 
+	y podrá haber un resultado diferente en caso de que se cumpla lo uno o lo otro.
+
+Valores booleanos (true, false)
+	Son palabras clave que nos indican si algo es verdadero o falso
