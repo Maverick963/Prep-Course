@@ -1,0 +1,14 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+for
+	Llamado Bucle For, es una serie de instrucciones que se repiten tantas veces como se le indique.
+
+&&
+	Llamado AND (Y), es un operador que evalúa dos expresiones; el resultado es verdadero si ambas expresiones son verdaderas, en las demás combinaciones devuelve falso.
+
+||
+	Llamado OR (O), es un operador que evalúa dos expresiones, el resultado es falso si ambas expresiones son falsas, en las demás combinacioens, es verdadero.
+
+!
+	Llamado NOT (NEGACIÓN), es un operador que convierte algo verdadero en falso y viceversa.
