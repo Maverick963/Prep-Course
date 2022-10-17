@@ -1,0 +1,11 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+Arrays
+	Un array es un conjunto de elementos que pueden ser de diferentes tipos, entre ellos, números, texto, 
+	e incluso pueden contener otros conjuntos, incluso funciones. 
+	Cada elemento dentro del conjunto está separado por el símbolo coma y éstos se encuentran encerrados entre corchetes.
+	Ejemplo: [1, 2, 3, 'hola', null, undefined, true, false, [4, 5, 6], function() {console.log('hola_funcion')}, 'chao']
+	Un array también puede estar vacío, así: []
+	Cada elemento dendo del array está asociado a una posición en orden ascendente o índice que por defecto empieza en cero (0) 
+	y aumenta en 1 cada vez, así: 0 1 2 3 4...
