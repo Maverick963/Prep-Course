@@ -1,0 +1,18 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+Objetos
+	Son conjuntos de elementos que contienen propiedades y valores, que pueden ser posteriormente consultados
+
+Propiedades
+	Son una serie de elementos que conforman los objetos; con las propiedades se diferencian diferentes tipos de valores.
+
+Métodos
+	Cuando las propiedades contienen funciones, se les conoce como métodos. Es decir, una propiedad hace las veces de función.
+
+Bucle for…in
+	Instrucción que permite recorrer y consultar el contenido de un objeto, que pueden ser las propiedades o los valores de las propiedades, o ambos.
+
+Notación de puntos vs notación de corchetes
+	La Notación de Puntos (Dot Notation) es una forma de escribir código usando como separador el símbolo de punto. 
+	La Notación de Corchetes (Bracket Notation) es otra forma de escribir código usando los corchetes y apóstrofes.
