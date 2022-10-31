@@ -1,0 +1,13 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+Prototype
+	Prototipo es un objeto. Todos los objetos en JavaScript tienen por defecto un prototype (oculto), 
+	que a su vez es un objeto que puede contener sus propias propiedades. 
+	El prototype sirve para compartir métodos (funciones).
+
+Constructors
+	Un constructor es una función que sirve como plantilla, es decir, hace las veces de una Clase. 
+	Estas permiten generar instancias (hijos) con sus respectivos valores en las propiedades.
+	Este tipo de funciones son objetos que tienen propiedades cuyo nombre va precedido de la keyword this.
+
