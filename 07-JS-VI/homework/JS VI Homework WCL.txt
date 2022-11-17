@@ -1,0 +1,6 @@
+EXPLICACIONES DE CONCEPTOS
+
+
+Funciones Callback
+	Cuando pasamos una función como argumento a otra función, recibe el nombre de Callback. 
+	Estas funciones pueden llamarse en cualquier momento. Se recomienda usar la convención cb.
